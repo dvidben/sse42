@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sse42", "sse4\sse4.vcxproj", "{DB14DD3A-AA58-4760-8D2B-364E9AA322B8}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dvidben.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = sse4\\sse4.vcxproj
+		SccProjectName1 = sse4
+		SccLocalPath1 = sse4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB14DD3A-AA58-4760-8D2B-364E9AA322B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB14DD3A-AA58-4760-8D2B-364E9AA322B8}.Debug|Win32.Build.0 = Debug|Win32
+		{DB14DD3A-AA58-4760-8D2B-364E9AA322B8}.Release|Win32.ActiveCfg = Release|Win32
+		{DB14DD3A-AA58-4760-8D2B-364E9AA322B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
